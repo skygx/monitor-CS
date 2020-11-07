@@ -1,0 +1,6 @@
+
+dpython:S2208"GImport only needed names or import the module and then use its members.(¬½ëÕÿÿÿÿÿ
+_python:PrintStatementUsage;"-Replace print statement by built-in function.(úÿ›Ãùÿÿÿÿ8¾ŸÊØ.
+Zpython:PrintStatementUsageH"-Replace print statement by built-in function.(ÁñßÅ8Ş·ÚØ.
+:python:S3457d"Remove this unused argument.(öÙ³48…“¥Ø.
+<python:S125."Remove this commented out code.(ê¢œu8”ĞËØ.

@@ -1,0 +1,11 @@
+
+`python:PrintStatementUsageÏ"-Replace print statement by built-in function.(¡ÂÒ›øÿÿÿÿ8—óÿœØ.
+dpython:S2208"GImport only needed names or import the module and then use its members.(¬½ëÕÿÿÿÿÿ
+;python:S125"Remove this commented out code.(¤ÓÅúüÿÿÿÿ
+opython:S1542µ"QRename function "writePid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®­½õúÿÿÿÿ
+6python:S125j"Remove this commented out code.(¢‚©ï
+7python:S125ª"Remove this commented out code.(¢‚©ï
+Zpython:PrintStatementUsageÑ"-Replace print statement by built-in function.(´İÙ,8 Ø.
+`python:PrintStatementUsageÓ"-Replace print statement by built-in function.(–ŠØªıÿÿÿÿ8©öíœØ.
+@python:S14813"(Remove the unused local variable "cpu1".(ëŒÂ¡
+`python:PrintStatementUsageĞ"-Replace print statement by built-in function.(’ÒèÊüÿÿÿÿ8—À€Ø.

@@ -1,0 +1,4 @@
+ip,host,cpu_usage, cpu_load1, cpu_load5, cpu_load15, mem_total, mem_free, mem_usage, swap_total, swap_free, swap_percent, recv, send, pkg_recv, pkg_snd
+192.168.136.110,k8s-node1.linux.com,2,0.27,0.22,0.15,3909,1556,49.8,0,0,0,38270546,25456417,204302,118111
+192.168.136.151,k8s-debian,1,0.02,0.02,0,962,376,37.8,0,0,0,9731165,105529,64749,1037
+192.168.136.145,k8s-node2,16.3,0.1,0.14,0.23,954,77,77.9,0,0,0,124722992,34545542,360741,241371

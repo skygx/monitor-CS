@@ -1,0 +1,12 @@
+
+Gpython:S14812"(Remove the unused local variable "cpu1".(ëŒÂ¡8‡ëõõ×.
+Bpython:S125"Remove this commented out code.(¤ÓÅúüÿÿÿÿ8‡ëõõ×.
+vpython:S1542±"QRename function "writePid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®­½õúÿÿÿÿ8‡ëõõ×.
+kpython:S2208"GImport only needed names or import the module and then use its members.(¬½ëÕÿÿÿÿÿ8‡ëõõ×.
+Hpython:S1481Î"(Remove the unused local variable "iops".(Ø¦ÏÀ8‡ëõõ×.
+Hpython:S1481Ì"(Remove the unused local variable "disk".(Ó¤Œà8‡ëõõ×.
+[python:PrintStatementUsageµ"-Replace print statement by built-in function.(öö€ˆ8‡ëõõ×.
+Lpython:S1481É"'Remove the unused local variable "net".(¶Õ ¥úÿÿÿÿ8‡ëõõ×.
+=python:S125i"Remove this commented out code.(¢‚©ï8‡ëõõ×.
+Cpython:S125Ç"Remove this commented out code.(«»Ğúÿÿÿÿ8‡ëõõ×.
+>python:S125§"Remove this commented out code.(¢‚©ï8‡ëõõ×.

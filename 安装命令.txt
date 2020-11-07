@@ -1,0 +1,31 @@
+yum install -y python-devel
+ 
+pip install --upgrade pip setuptools
+ 
+pip install psutil
+
+yum install python-pip
+yum install -y gcc
+
+Error: python-devel conflicts with python-2.7.5-76.el7.x86_64
+python版本冲突导致
+rpm -qa|grep python-2.7
+rpm -e 
+
+pyinstaller -F msg-collecter.py
+
+1.需要修改msg-collecter.py的收集主机
+
+2.部署msg-collecter客户端
+ansible all -i host -m copy -a "src=/home/bzx_admin/msg-collecter,dest=/usr/bin"
+
+3.启动收集程序
+ansible k8s -i hosts -m script -a "/root/python/msg-collect" &
+
+#3.后台启动msg-collecter
+ansible all -i host -m shell -a "/usr/bin/msg-collecter"
+
+ansible all -i host -m shell -a "source ~/.bash_profile;nohup /usr/bin/msg-collecter &"
+
+#4.关闭msg-collecter
+ansible all -i host -m shell 
